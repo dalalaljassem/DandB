@@ -1,4 +1,4 @@
-import logo from './luke.png';
+import logo from './luke.jpeg';
 import './App.css';
 
 function App() {
